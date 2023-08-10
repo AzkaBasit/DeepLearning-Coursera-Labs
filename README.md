@@ -17,7 +17,7 @@ To get started with the programming assignments, follow the steps below:
 Clone this repository to your local machine using the following command:
 
 git clone 
-https://github.com/your-username/dl-specialization-assignments.git
+https://github.com/AzkaBasit/DeepLearning-Coursera-Labs.git
 
 Make sure you have the necessary dependencies installed.
 
